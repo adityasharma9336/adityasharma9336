@@ -24,6 +24,15 @@ const aditya = {
   interests: ["Backend Systems", "Cloud Computing", "Scalable Apps"],
   motto: "Learn → Build → Improve"
 };
+```
+
+- 🔭 Currently working on a **Restaurant Website** using MERN stack
+- 🌱 Strengthening my **DSA** skills and exploring **System Design**
+- ☁️ Learning **Docker, Kubernetes** and **CI/CD pipelines**
+- 💡 Passionate about building systems that scale
+- 🎯 Goal: Become a proficient Full Stack & DevOps Engineer
+
+---
 ## 🛠️ Tech Stack
 
 ### Languages
