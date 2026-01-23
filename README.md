@@ -66,17 +66,22 @@ const aditya = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityasharma9336&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma9336&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<!-- Overall GitHub Stats -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=adityasharma9336&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<!-- Top Languages based on YOUR repos -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma9336&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharma9336&theme=tokyonight" alt="GitHub Streak" />
+
+<!-- Contribution Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharma9336&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasharma9336&theme=tokyo-night&hide_border=true" />
-</div>
 
 ---
 
