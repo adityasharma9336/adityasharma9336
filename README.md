@@ -1,14 +1,12 @@
 <div align="center">
 
-# 👋 Hi there, I'm Aditya Sharma
+# 👋 Hi, I'm Aditya Sharma
 
-### Frontend Developer (MERN – Learning) | CS Student | Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Computer+Science+Student;Frontend+Developer;Learning+MERN+Stack;Building+Real+Projects;Always+Learning" alt="Typing SVG" />
+### Computer Science Student | Frontend Developer (Learning MERN)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya709/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityathakur123456sharma@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/adityasharma9336?style=for-the-badge&logo=github)](https://github.com/adityasharma9336)
+[![GitHub](https://img.shields.io/github/followers/adityasharma9336?style=for-the-badge&logo=github)](https://github.com/adityasharma9336)
 
 </div>
 
@@ -19,33 +17,12 @@
 ```javascript
 const aditya = {
   education: "Computer Science Student",
-  location: "India 🇮🇳",
-  currentFocus: [
-    "Data Structures & Algorithms",
-    "Frontend Development (React)",
-    "Learning MERN Stack"
-  ],
-  skills: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React",
-    "PHP",
-    "Python"
-  ],
-  interests: [
-    "Frontend UI Development",
-    "Backend Logic",
-    "Problem Solving",
-    "Real-world Projects"
-  ],
-  learningNow: [
-    "React Components & Hooks",
-    "Git & GitHub Workflow",
-    "Basic Backend Concepts"
-  ],
-  motto: "Learn → Build → Improve"
+  location: "India",
+  focus: ["DSA", "Frontend Development", "Learning MERN"],
+  skills: ["HTML", "CSS", "JavaScript", "React", "PHP", "Python"],
+  motto: "Learn → Practice → Improve"
 };
+
 
 ```
 - 🔭 Currently working on **Web Development & Backend projects**
