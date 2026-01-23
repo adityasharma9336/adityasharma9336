@@ -92,25 +92,21 @@ const aditya = {
 
 <div align="center">
 
-[![SparkFlow](https://github-readme-stats.vercel.app/api/pin/?username=Raj200X&repo=SparkFlow&theme=tokyonight)](https://github.com/Raj200X/SparkFlow)
-[![Stop-Shop](https://github-readme-stats.vercel.app/api/pin/?username=Raj200X&repo=Stop-Shop&theme=tokyonight)](https://github.com/Raj200X/Stop-Shop)
+[![Hospital Management System](https://github-readme-stats.vercel.app/api/pin/?username=adityasharma9336&repo=Hospital-Management-System&theme=tokyonight)](https://github.com/adityasharma9336/Hospital-Management-System)
+
+[![Smart Irrigation System](https://github-readme-stats.vercel.app/api/pin/?username=adityasharma9336&repo=smart-irrigation-system&theme=tokyonight)](https://github.com/adityasharma9336/smart-irrigation-system)
 
 </div>
 
 ### 💡 Project Highlights
 
-- **⚡ SparkFlow** - Electricity usage monitoring website with real-time analytics
-- **🛒 Stop-Shop** - Full-featured E-Commerce platform with modern UI/UX
-- **🎓 LPU GPA Calculator** - Python-based tool for calculating semester GPA
-- **🍽️ Restaurant Website** *(In Progress)* - MERN stack application with full backend integration
+- 🏥 **Hospital Management System**  
+  PHP-based system for managing patients, doctors, appointments, and hospital records  
 
----
+- 🌱 **Smart Irrigation System**  
+  JavaScript-based project for efficient water usage and smart farming automation  
 
-## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityasharma9336&theme=tokyonight" />
-</div>
 
 ---
 
