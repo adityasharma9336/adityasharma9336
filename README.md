@@ -2,11 +2,11 @@
 
 # 👋 Hi there, I'm Aditya Sharma
 
-### Full Stack Developer | Cloud & DevOps Enthusiast | Problem Solver
+### Frontend Developer (MERN – Learning) | CS Student | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Computer+Science+Student;Frontend+Developer;Learning+MERN+Stack;Building+Real+Projects;Always+Learning" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditya709/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya709/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityathakur123456sharma@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/adityasharma9336?style=for-the-badge&logo=github)](https://github.com/adityasharma9336)
 
@@ -19,11 +19,34 @@
 ```javascript
 const aditya = {
   education: "Computer Science Student",
-  location: "India",
-  currentFocus: ["DSA", "Full Stack Development", "DevOps"],
-  interests: ["Backend Systems", "Cloud Computing", "Scalable Apps"],
+  location: "India 🇮🇳",
+  currentFocus: [
+    "Data Structures & Algorithms",
+    "Frontend Development (React)",
+    "Learning MERN Stack"
+  ],
+  skills: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "PHP",
+    "Python"
+  ],
+  interests: [
+    "Frontend UI Development",
+    "Backend Logic",
+    "Problem Solving",
+    "Real-world Projects"
+  ],
+  learningNow: [
+    "React Components & Hooks",
+    "Git & GitHub Workflow",
+    "Basic Backend Concepts"
+  ],
   motto: "Learn → Build → Improve"
 };
+
 ```
 - 🔭 Currently working on **Web Development & Backend projects**
 - 🌱 Strengthening **Data Structures & Algorithms** for placements
@@ -139,12 +162,13 @@ const aditya = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggrajsrivastav0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raj200X)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya709/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityathakur123456sharma@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityasharma9336)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 </div>
+
 
 ---
 
