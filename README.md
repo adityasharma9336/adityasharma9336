@@ -25,12 +25,11 @@ const aditya = {
   motto: "Learn → Build → Improve"
 };
 ```
-
-- 🔭 Currently working on a **Restaurant Website** using MERN stack
-- 🌱 Strengthening my **DSA** skills and exploring **System Design**
-- ☁️ Learning **Docker, Kubernetes** and **CI/CD pipelines**
-- 💡 Passionate about building systems that scale
-- 🎯 Goal: Become a proficient Full Stack & DevOps Engineer
+- 🔭 Currently working on **Web Development & Backend projects**
+- 🌱 Strengthening **Data Structures & Algorithms** for placements
+- 💻 Improving **PHP, JavaScript, and Python** through hands-on projects
+- 💡 Interested in building **practical and real-world applications**
+- 🎯 Goal: Become a **skilled Full Stack Developer**
 
 ---
 ## 🛠️ Tech Stack
@@ -117,12 +116,14 @@ const aditya = {
 
 ## 🎯 Current Goals
 
-- [ ] Master Data Structures & Algorithms
-- [ ] Complete MERN Stack Restaurant Website
-- [ ] Learn Kubernetes and advanced Docker concepts
-- [ ] Contribute to open-source projects
-- [ ] Build a microservices-based application
-- [ ] Earn cloud certifications (AWS/Azure)
+- [ ] Strengthen **Data Structures & Algorithms** for placements  
+- [ ] Improve **PHP & Backend Development** (Hospital Management System)  
+- [ ] Build and enhance **JavaScript-based projects** (Smart Irrigation System)  
+- [ ] Learn **MERN Stack** step by step  
+- [ ] Practice **Python for AI & Automation**  
+- [ ] Improve **Git & GitHub workflow**  
+- [ ] Prepare for **internships and entry-level roles**  
+
 
 ---
 
