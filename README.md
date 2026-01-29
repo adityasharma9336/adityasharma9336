@@ -66,19 +66,22 @@ const aditya = {
 
 ## 📊 GitHub Analytics
 
-### 🔹 Contribution Activity
+### 🔥 Contribution Activity
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityasharma9336&theme=github-dark&hide_border=true)
 
-### 🔹 Profile Overview
+---
+
+### 📦 Repository Information
+![Total Repositories](https://img.shields.io/github/repo-count/adityasharma9336?label=Public%20Repositories&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/adityasharma9336?label=Followers&style=for-the-badge)
-![Total Stars](https://img.shields.io/github/stars/adityasharma9336?label=Total%20Stars&style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=adityasharma9336&label=Profile%20Views&style=for-the-badge)
 
-### 🔹 Activity Status
-![Last Commit](https://img.shields.io/github/last-commit/adityasharma9336/mern-practice?style=for-the-badge)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/adityasharma9336/mern-practice?style=for-the-badge)
-
-
+### 💻 Language Usage (Based on Repositories)
+![JavaScript](https://img.shields.io/badge/JavaScript-Most%20Used-yellow?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C%2B%2B-Strong-blue?style=for-the-badge&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/HTML5-Used%20Often-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Used%20Often-blue?style=for-the-badge&logo=css3)
+![PHP](https://img.shields.io/badge/PHP-Learning-purple?style=for-the-badge&logo=php)
 
 ---
 
@@ -86,9 +89,13 @@ const aditya = {
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityasharma9336&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
-</p>
+
+
+![Active Developer](https://img.shields.io/badge/Active%20Developer-Consistent%20Commits-success?style=for-the-badge)
+![DSA Practice](https://img.shields.io/badge/DSA-160%2B%20Problems-blue?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Learning-orange?style=for-the-badge)
+![MERN](https://img.shields.io/badge/MERN-Developer%20in%20Progress-purple?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Daily%20User-black?style=for-the-badge&logo=github)
 
 ---
 
