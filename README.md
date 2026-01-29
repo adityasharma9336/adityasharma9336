@@ -66,14 +66,17 @@ const aditya = {
 
 ## 📊 GitHub Analytics
 
+### 🔹 Contribution Activity
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityasharma9336&theme=github-dark&hide_border=true)
 
+### 🔹 Profile Overview
+![Followers](https://img.shields.io/github/followers/adityasharma9336?label=Followers&style=for-the-badge)
+![Total Stars](https://img.shields.io/github/stars/adityasharma9336?label=Total%20Stars&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=adityasharma9336&label=Profile%20Views&style=for-the-badge)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityasharma9336&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityasharma9336&theme=dark)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityasharma9336&theme=github-dark)
+### 🔹 Activity Status
+![Last Commit](https://img.shields.io/github/last-commit/adityasharma9336/mern-practice?style=for-the-badge)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/adityasharma9336/mern-practice?style=for-the-badge)
 
 
 
