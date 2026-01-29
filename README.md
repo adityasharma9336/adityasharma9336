@@ -64,21 +64,16 @@ const aditya = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+## 📊 GitHub Analytics
 
-<img height="170em"
-     src="https://github-readme-stats.vercel.app/api?username=adityasharma9336&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasharma9336&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma9336&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-<img height="170em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma9336&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharma9336&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityasharma9336&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 
@@ -86,11 +81,11 @@ const aditya = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityasharma9336&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityasharma9336&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+</p>
 
 ---
 
