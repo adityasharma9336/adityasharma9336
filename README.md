@@ -67,14 +67,12 @@ const aditya = {
 ## 📊 GitHub Analytics
 
 
+![Followers](https://img.shields.io/github/followers/adityasharma9336?label=Followers&style=for-the-badge)
+![Total Stars](https://img.shields.io/github/stars/adityasharma9336?label=Total%20Stars&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=adityasharma9336&label=Profile%20Views&style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityasharma9336&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma9336&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityasharma9336&theme=tokyonight)
-
-
+![Last Commit](https://img.shields.io/github/last-commit/adityasharma9336/mern-practice?style=for-the-badge)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/adityasharma9336/mern-practice?style=for-the-badge)
 
 
 ---
