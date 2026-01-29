@@ -66,14 +66,14 @@ const aditya = {
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasharma9336&show_icons=true&t&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma9336&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityasharma9336&theme=tokyonight&hide_border=true"/>
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityasharma9336&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma9336&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityasharma9336&theme=tokyonight)
+
 
 
 
