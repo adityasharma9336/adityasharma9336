@@ -66,15 +66,19 @@ const aditya = {
 
 ## 📊 GitHub Analytics
 
+
 ### 🔥 Contribution Activity
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityasharma9336&theme=github-dark&hide_border=true)
 
 ---
 
-### 📦 Repository Information
-![Total Repositories](https://img.shields.io/github/repo-count/adityasharma9336?label=Public%20Repositories&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/adityasharma9336?label=Followers&style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=adityasharma9336&label=Profile%20Views&style=for-the-badge)
+### 📦 Profile Stats
+![Followers](https://img.shields.io/github/followers/adityasharma9336?style=for-the-badge)
+![Total Stars](https://img.shields.io/github/stars/adityasharma9336?style=for-the-badge)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-Active-blue?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=adityasharma9336&style=for-the-badge)
+
+---
 
 ### 💻 Language Usage (Based on Repositories)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Most%20Used-yellow?style=for-the-badge&logo=javascript)
@@ -82,6 +86,7 @@ const aditya = {
 ![HTML5](https://img.shields.io/badge/HTML5-Used%20Often-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Used%20Often-blue?style=for-the-badge&logo=css3)
 ![PHP](https://img.shields.io/badge/PHP-Learning-purple?style=for-the-badge&logo=php)
+
 
 ---
 
