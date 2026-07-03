@@ -1,15 +1,32 @@
 <div align="center">
 
-# 👋 Hi, I'm Aditya Sharma
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,30:203a43,70:2c5364,100:00c6ff&text=Aditya%20Sharma&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Developer%20|%20DSA%20Enthusiast&descAlignY=60"/>
 
-### Computer Science Student | Frontend Developer (Learning MERN)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aditya+Sharma;Full+Stack+Developer;MERN+Stack+Developer;Competitive+Programmer;Always+Learning+New+Things;Open+Source+Enthusiast"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya709/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityathakur123456sharma@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/adityasharma9336?style=for-the-badge&logo=github)](https://github.com/adityasharma9336)
+<p>
+
+<a href="https://github.com/adityasharma9336">
+<img src="https://img.shields.io/github/followers/adityasharma9336?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<a href="https://github.com/adityasharma9336">
+<img src="https://img.shields.io/github/stars/adityasharma9336?style=for-the-badge&logo=github&label=Stars"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditya709/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:adityathakur123456sharma@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=adityasharma9336&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
-
 ---
 
 ## 🎓 About Me
