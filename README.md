@@ -1,56 +1,38 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Aditya%20Sharma&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20•%20MERN%20Developer%20•%20DSA%20Enthusiast&descSize=22&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Aditya%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20•%20MERN%20Developer%20•%20DSA%20Enthusiast&descSize=22&descAlignY=58&color=gradient&customColorList=14,17,18,24,30"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hello,+I'm+Aditya+Sharma;💻+Full+Stack+Developer;🚀+Building+Modern+Web+Applications;🌱+Learning+MERN+Stack;⚡+Passionate+About+DSA+%26+Problem+Solving;☁️+Exploring+Cloud+%26+DevOps"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=A970FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Aditya+Sharma;💻+Full+Stack+Developer;🚀+Building+Modern+Web+Applications;🌱+Learning+MERN+Stack;⚡+DSA+%7C+Open+Source+%7C+DevOps;☁️+Always+Learning+New+Technologies"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/adityasharma9336">
-<img src="https://img.shields.io/github/followers/adityasharma9336?style=for-the-badge&logo=github&color=181717&labelColor=000000"/>
+<img src="https://img.shields.io/github/followers/adityasharma9336?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6C63FF"/>
 </a>
 
 <a href="https://github.com/adityasharma9336">
-<img src="https://img.shields.io/github/stars/adityasharma9336?style=for-the-badge&logo=github&color=f1c40f&labelColor=000000"/>
+<img src="https://img.shields.io/github/stars/adityasharma9336?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=9B59B6"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aditya709/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:adityathakur123456sharma@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=adityasharma9336&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=adityasharma9336&label=Profile+Views&style=for-the-badge&color=7C3AED"/>
 
-<img src="https://img.shields.io/github/last-commit/adityasharma9336/adityasharma9336?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/adityasharma9336/adityasharma9336?style=for-the-badge&logo=github&color=4F46E5"/>
 
-<img src="https://img.shields.io/github/commit-activity/m/adityasharma9336/adityasharma9336?style=for-the-badge"/>
+<img src="https://img.shields.io/github/commit-activity/m/adityasharma9336/adityasharma9336?style=for-the-badge&color=9333EA"/>
 
 </div>
 
 ---
-
-# 👨‍💻 Welcome to My GitHub
-
-<img align="right" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
-### 🚀 Passionate Full Stack Developer
-
-I'm a Computer Science student passionate about creating modern, scalable, and user-friendly web applications. I enjoy solving challenging problems with Data Structures & Algorithms while continuously improving my development skills.
-
-### 💡 Currently
-
-- 🌱 Learning **MERN Stack**
-- 💻 Building **Full Stack Projects**
-- 📚 Solving **DSA Daily**
-- ☁️ Exploring **Cloud & DevOps**
-- 🎯 Preparing for **Software Engineer Roles**
-
-<br clear="right"/>
 
 ---
 
