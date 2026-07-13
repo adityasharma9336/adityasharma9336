@@ -1,34 +1,73 @@
+# 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### Hi, I'm Aditya Sharma 👋
+
+I'm a **Computer Science Engineering student** and an aspiring **Full Stack MERN Developer** from **India 🇮🇳** who enjoys building modern, scalable, and user-friendly web applications.
+
+I love transforming ideas into real-world projects while continuously improving my problem-solving skills through **Data Structures & Algorithms**. My journey is driven by curiosity, consistency, and a passion for learning new technologies.
+
+### 🚀 What I'm Currently Doing
+
+- 🔭 Building **Full Stack MERN Applications**
+- 🌱 Learning **Advanced Backend Development & DevOps**
+- 💻 Solving **DSA problems** for placements
+- 🚀 Exploring **AI-powered Web Applications**
+- 📚 Improving system design and clean coding practices
+
+### 💡 What I Enjoy
+
+- 🌐 Developing responsive web applications
+- ⚙️ Designing scalable backend systems
+- 📊 Solving algorithmic challenges
+- 🤝 Contributing to open-source projects
+- 📖 Learning emerging technologies
+
+### 🎯 Career Goal
+
+> To become a skilled **Software Engineer** who builds impactful products, writes clean and efficient code, and continuously learns modern technologies.
+
+<br>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Aditya%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20•%20MERN%20Developer%20•%20DSA%20Enthusiast&descSize=22&descAlignY=58&color=gradient&customColorList=14,17,18,24,30"/>
+### ⚡ Quick Facts
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&color=A970FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Aditya+Sharma;💻+Full+Stack+Developer;🚀+Building+Modern+Web+Applications;🌱+Learning+MERN+Stack;⚡+DSA+%7C+Open+Source+%7C+DevOps;☁️+Always+Learning+New+Technologies"/>
+| 💻 Role | 🚀 Focus | 🌍 Location | 🎓 Education |
+|:-------:|:-------:|:-----------:|:------------:|
+| Full Stack Developer | MERN Stack | India 🇮🇳 | Computer Science |
 
-<br><br>
+</div>
 
-<a href="https://github.com/adityasharma9336">
-<img src="https://img.shields.io/github/followers/adityasharma9336?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6C63FF"/>
-</a>
+---
 
-<a href="https://github.com/adityasharma9336">
-<img src="https://img.shields.io/github/stars/adityasharma9336?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=9B59B6"/>
-</a>
+### 🧠 Developer Philosophy
 
-<a href="https://www.linkedin.com/in/aditya709/">
-<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+```javascript
+const aditya = {
+  name: "Aditya Sharma",
+  role: "Full Stack Developer",
+  code: ["JavaScript", "C++", "Python", "PHP"],
+  frontend: ["React", "HTML", "CSS", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js"],
+  database: ["MongoDB", "MySQL"],
+  tools: ["Git", "Docker", "Linux", "VS Code"],
+  currentlyLearning: [
+    "MERN Stack",
+    "DevOps",
+    "System Design",
+    "DSA"
+  ],
+  motto: "Keep Learning • Keep Building • Keep Growing 🚀"
+};
+```
 
-<a href="mailto:adityathakur123456sharma@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<br><br>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=adityasharma9336&label=Profile+Views&style=for-the-badge&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/last-commit/adityasharma9336/adityasharma9336?style=for-the-badge&logo=github&color=4F46E5"/>
-
-<img src="https://img.shields.io/github/commit-activity/m/adityasharma9336/adityasharma9336?style=for-the-badge&color=9333EA"/>
+### ✨ "Every line of code is one step closer to becoming a better developer."
 
 </div>
 
