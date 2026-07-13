@@ -1,59 +1,46 @@
-````markdown
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:6C63FF,25:8B5CF6,50:A855F7,75:C084FC,100:4F46E5&text=Aditya%20Sharma&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=23&animation=fadeIn"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub+Profile;💻+Full+Stack+MERN+Developer;🚀+Building+Scalable+Web+Applications;⚡+DSA+%7C+Open+Source+%7C+DevOps;🌱+Always+Learning+New+Technologies"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Code-Clean-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source-Lover-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/MERN-Developer-4F46E5?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Always-Learning-9333EA?style=for-the-badge&logo=bookstack&logoColor=white"/>
-
-</div>
-
+markdown
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+# <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/hand-wave.gif" width="35"> About Me
 
 <table>
 <tr>
 
-<td width="60%">
+<td width="62%">
 
-## 👨‍💻 Hello, I'm Aditya Sharma
+### 👨‍💻 Aditya Sharma
 
-I'm a passionate **Computer Science Engineering student** from **India 🇮🇳** with a strong interest in building modern, scalable and user-focused web applications.
+**Full Stack Developer • MERN Stack • Software Engineering Enthusiast**
 
-I enjoy solving real-world problems using technology while continuously improving my skills in **Full Stack Development, Data Structures & Algorithms, and DevOps**.
+I'm a Computer Science student passionate about building scalable web applications, solving real-world problems, and continuously learning modern technologies.
 
-My goal is to become a **Software Engineer** who creates impactful products with clean architecture and exceptional user experience.
+I enjoy transforming ideas into production-ready applications with clean architecture, responsive UI, and efficient backend systems. My interests span **Full Stack Development**, **Data Structures & Algorithms**, **Cloud**, **DevOps**, and **AI-powered applications**.
 
-### 🚀 Currently
+<br>
 
-✨ Building Full Stack Projects
+### 🚀 What I'm Working On
 
-🌱 Learning MERN Stack & Backend Development
+- Building modern **MERN Stack** applications
+- Strengthening **Data Structures & Algorithms**
+- Learning **System Design** and scalable backend architecture
+- Exploring **Cloud Computing**, **Docker**, and **DevOps**
+- Contributing to real-world software projects
 
-⚡ Solving DSA for Placements
+<br>
 
-🤖 Exploring AI Applications
+### 🎯 Career Objective
 
-☁️ Learning DevOps & Cloud
-
-### 💡 Motto
-
-> **Build • Learn • Improve • Repeat**
+To become a Software Engineer who develops reliable, scalable, and impactful products while continuously improving through learning, collaboration, and innovation.
 
 </td>
 
-<td width="40%">
+<td width="38%" align="center">
 
-<img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img src="https://github-readme-stats.vercel.app/api?username=adityasharma9336&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=adityasharma9336&theme=tokyonight&hide_border=true"/>
 
 </td>
 
@@ -62,57 +49,19 @@ My goal is to become a **Software Engineer** who creates impactful products with
 
 ---
 
-# 🚀 Developer Profile
-
-<div align="center">
-
-| 💻 Role | 🚀 Specialization | 📚 Currently Learning | 🎯 Goal |
-|:------:|:----------------:|:---------------------:|:------:|
-| Full Stack Developer | MERN Stack | DevOps • AI • System Design | Software Engineer |
-
-</div>
-
----
-
-# ⚙️ Developer Configuration
+### 💡 Developer Profile
 
 ```javascript
 const aditya = {
-    name: "Aditya Sharma",
-    role: "Full Stack MERN Developer",
+    role: "Full Stack Developer",
 
-    languages: [
-        "JavaScript",
-        "C++",
-        "Python",
-        "PHP"
+    currentlyBuilding: [
+        "Scalable MERN Applications",
+        "Backend APIs",
+        "Real-world Projects"
     ],
 
-    frontend: [
-        "React",
-        "HTML",
-        "CSS",
-        "Tailwind CSS",
-        "Bootstrap"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js"
-    ],
-
-    database: [
-        "MongoDB",
-        "MySQL"
-    ],
-
-    devOps: [
-        "Docker",
-        "Git",
-        "Linux"
-    ],
-
-    currentlyLearning: [
+    learning: [
         "Advanced MERN",
         "System Design",
         "Cloud",
@@ -120,55 +69,28 @@ const aditya = {
         "AI"
     ],
 
-    lifePhilosophy:
-        "Consistency beats talent when talent doesn't work hard."
+    interests: [
+        "Web Development",
+        "Problem Solving",
+        "Open Source",
+        "Software Architecture"
+    ],
+
+    philosophy:
+        "Build meaningful software. Keep learning. Stay consistent."
 };
 ```
 
----
-
 <div align="center">
 
-## ✨ What Drives Me
-
-<table>
-<tr>
-
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/source-code.png"/><br>
-<b>Clean Code</b>
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/web.png"/><br>
-<b>Modern UI</b>
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/><br>
-<b>AI Projects</b>
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/combo-chart.png"/><br>
-<b>Problem Solving</b>
-</td>
-
-</tr>
-</table>
+| 💻 Focus | 🚀 Expertise | 🌱 Learning | 🎯 Goal |
+|:--------:|:-----------:|:-----------:|:-------:|
+| Full Stack Development | MERN Stack | DevOps • Cloud • AI | Software Engineer |
 
 </div>
 
----
+> **"Great software isn't just written—it is designed, refined, tested, and continuously improved."**
 
-<div align="center">
-
-## 🌟 Personal Mission
-
-> *"I believe great software is built through continuous learning, consistency, and attention to detail. Every project is an opportunity to improve, innovate, and create something meaningful."*
-
-</div>
-````
 
 
 ---
