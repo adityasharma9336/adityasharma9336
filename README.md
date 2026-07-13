@@ -1,65 +1,127 @@
-# 👨‍💻 About Me
+````markdown
+<div align="center">
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-### Hi, I'm Aditya Sharma 👋
-
-I'm a **Computer Science Engineering student** and an aspiring **Full Stack MERN Developer** from **India 🇮🇳** who enjoys building modern, scalable, and user-friendly web applications.
-
-I love transforming ideas into real-world projects while continuously improving my problem-solving skills through **Data Structures & Algorithms**. My journey is driven by curiosity, consistency, and a passion for learning new technologies.
-
-### 🚀 What I'm Currently Doing
-
-- 🔭 Building **Full Stack MERN Applications**
-- 🌱 Learning **Advanced Backend Development & DevOps**
-- 💻 Solving **DSA problems** for placements
-- 🚀 Exploring **AI-powered Web Applications**
-- 📚 Improving system design and clean coding practices
-
-### 💡 What I Enjoy
-
-- 🌐 Developing responsive web applications
-- ⚙️ Designing scalable backend systems
-- 📊 Solving algorithmic challenges
-- 🤝 Contributing to open-source projects
-- 📖 Learning emerging technologies
-
-### 🎯 Career Goal
-
-> To become a skilled **Software Engineer** who builds impactful products, writes clean and efficient code, and continuously learns modern technologies.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:6C63FF,25:8B5CF6,50:A855F7,75:C084FC,100:4F46E5&text=Aditya%20Sharma&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=23&animation=fadeIn"/>
 
 <br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub+Profile;💻+Full+Stack+MERN+Developer;🚀+Building+Scalable+Web+Applications;⚡+DSA+%7C+Open+Source+%7C+DevOps;🌱+Always+Learning+New+Technologies"/>
 
-### ⚡ Quick Facts
+<br><br>
 
-| 💻 Role | 🚀 Focus | 🌍 Location | 🎓 Education |
-|:-------:|:-------:|:-----------:|:------------:|
-| Full Stack Developer | MERN Stack | India 🇮🇳 | Computer Science |
+<img src="https://img.shields.io/badge/Code-Clean-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-Lover-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN-Developer-4F46E5?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Always-Learning-9333EA?style=for-the-badge&logo=bookstack&logoColor=white"/>
 
 </div>
 
 ---
 
-### 🧠 Developer Philosophy
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+<table>
+<tr>
+
+<td width="60%">
+
+## 👨‍💻 Hello, I'm Aditya Sharma
+
+I'm a passionate **Computer Science Engineering student** from **India 🇮🇳** with a strong interest in building modern, scalable and user-focused web applications.
+
+I enjoy solving real-world problems using technology while continuously improving my skills in **Full Stack Development, Data Structures & Algorithms, and DevOps**.
+
+My goal is to become a **Software Engineer** who creates impactful products with clean architecture and exceptional user experience.
+
+### 🚀 Currently
+
+✨ Building Full Stack Projects
+
+🌱 Learning MERN Stack & Backend Development
+
+⚡ Solving DSA for Placements
+
+🤖 Exploring AI Applications
+
+☁️ Learning DevOps & Cloud
+
+### 💡 Motto
+
+> **Build • Learn • Improve • Repeat**
+
+</td>
+
+<td width="40%">
+
+<img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Developer Profile
+
+<div align="center">
+
+| 💻 Role | 🚀 Specialization | 📚 Currently Learning | 🎯 Goal |
+|:------:|:----------------:|:---------------------:|:------:|
+| Full Stack Developer | MERN Stack | DevOps • AI • System Design | Software Engineer |
+
+</div>
+
+---
+
+# ⚙️ Developer Configuration
 
 ```javascript
 const aditya = {
-  name: "Aditya Sharma",
-  role: "Full Stack Developer",
-  code: ["JavaScript", "C++", "Python", "PHP"],
-  frontend: ["React", "HTML", "CSS", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
-  database: ["MongoDB", "MySQL"],
-  tools: ["Git", "Docker", "Linux", "VS Code"],
-  currentlyLearning: [
-    "MERN Stack",
-    "DevOps",
-    "System Design",
-    "DSA"
-  ],
-  motto: "Keep Learning • Keep Building • Keep Growing 🚀"
+    name: "Aditya Sharma",
+    role: "Full Stack MERN Developer",
+
+    languages: [
+        "JavaScript",
+        "C++",
+        "Python",
+        "PHP"
+    ],
+
+    frontend: [
+        "React",
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "Bootstrap"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js"
+    ],
+
+    database: [
+        "MongoDB",
+        "MySQL"
+    ],
+
+    devOps: [
+        "Docker",
+        "Git",
+        "Linux"
+    ],
+
+    currentlyLearning: [
+        "Advanced MERN",
+        "System Design",
+        "Cloud",
+        "DevOps",
+        "AI"
+    ],
+
+    lifePhilosophy:
+        "Consistency beats talent when talent doesn't work hard."
 };
 ```
 
@@ -67,9 +129,47 @@ const aditya = {
 
 <div align="center">
 
-### ✨ "Every line of code is one step closer to becoming a better developer."
+## ✨ What Drives Me
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/source-code.png"/><br>
+<b>Clean Code</b>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/web.png"/><br>
+<b>Modern UI</b>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/><br>
+<b>AI Projects</b>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/combo-chart.png"/><br>
+<b>Problem Solving</b>
+</td>
+
+</tr>
+</table>
 
 </div>
+
+---
+
+<div align="center">
+
+## 🌟 Personal Mission
+
+> *"I believe great software is built through continuous learning, consistency, and attention to detail. Every project is an opportunity to improve, innovate, and create something meaningful."*
+
+</div>
+````
+
 
 ---
 
